@@ -1,0 +1,47 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local databases and vector store
+*.db
+*.sqlite
+*.sqlite3
+backend/data/
+data/
+chroma_db/
+
+# Generated files
+*.log
+*.tmp
+*.temp
+
+# Model caches and downloaded weights
+.cache/
+.cache_huggingface/
+models/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

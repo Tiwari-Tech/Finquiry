@@ -1,0 +1,28 @@
+
+[
+  {
+    "id": "financial_table_001",
+    "question": "What was the revenue of Granite Cloud Services in FY2025-26 Q1?",
+    "expected_answer": "Granite Cloud Services reported revenue of 61,720.61 crore in FY2025-26 Q1."
+  },
+  {
+    "id": "financial_table_002",
+    "question": "What were the expenses and EBITDA of Granite Cloud Services in FY2025-26 Q1?",
+    "expected_answer": "Expenses were 50,271.20 crore and EBITDA was 11,449.41 crore."
+  },
+  {
+    "id": "financial_table_003",
+    "question": "What was the net profit of Granite Cloud Services in FY2025-26 Q1?",
+    "expected_answer": "The net profit was 7,729.36 crore."
+  },
+  {
+    "id": "financial_table_004",
+    "question": "What were the total assets and total debt of Granite Cloud Services in FY2025-26 Q1?",
+    "expected_answer": "Total assets were 238,696.97 crore and total debt was 30,653.95 crore."
+  },
+  {
+    "id": "financial_table_005",
+    "question": "What were the revenue growth and profit margin of Granite Cloud Services in FY2025-26 Q1?",
+    "expected_answer": "Revenue growth was -19.24% and profit margin was 12.52%."
+  }
+]

@@ -1,0 +1,46 @@
+# Backend API
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+email-validator
+python-dotenv
+python-jose[cryptography]
+
+# LangChain orchestration and document processing
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+langchain-groq
+langchain-ollama
+langchain-google-genai
+
+# Observability
+langfuse
+
+# Document parsing and OCR
+PyMuPDF
+python-docx
+openpyxl
+python-pptx
+beautifulsoup4
+pandas
+Pillow
+pytesseract
+
+# Vector database and embeddings
+chromadb
+sentence-transformers
+transformers
+torch
+rank-bm25
+
+# Groq LLM
+groq
+
+# Frontend
+streamlit
+requests
